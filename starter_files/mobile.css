@@ -1,0 +1,15 @@
+@media (min-width: 360px) {
+
+#logo {
+  text-align: center;
+}
+
+h1, h2, h3{
+  padding: 10px
+}
+
+p, ul{
+  margin-left: 15px;
+}
+
+}
